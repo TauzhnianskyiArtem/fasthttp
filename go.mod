@@ -1,4 +1,4 @@
-module github.com/aradilov/fasthttp
+module github.com/TauzhnianskyiArtem/fasthttp
 
 go 1.22
 
